@@ -1,0 +1,14 @@
+---
+title: "Backgammon Bananza"
+description: "A Backgammon game created with Python"
+image: featured.png
+about:
+  template: solana
+  image: featured.png
+---
+
+We created a virtual version of the board game backgammon using Python. The game is displayed as a picture in a separate window, while the user interacts through prompts in the console. We implemented the program by creating the images, the visual component, first, and then adding the ability to move them according to user input later.
+
+This project was created by Avery Sinclair and Lilabeth Sokolewicz.
+
+Read our [Final Report](https://docs.google.com/document/d/11oCEJQftHgbaM8zw64Baww0nEpQSwSxfRaoazasb_Ow/edit).

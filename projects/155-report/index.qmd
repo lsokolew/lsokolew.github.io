@@ -1,0 +1,14 @@
+---
+title: "Comparing Greenhouse Gas Emissions and Gross Domestic Product"
+description: "A statistical analysis of global economic and environmental equity"
+image: featured.png
+about:
+  template: solana
+  image: featured.png
+---
+
+We used statistical modeling techniques in R Studio to examine the relationship between greenhouse gas emissions and gross domestic product in a selection of nations. We cleaned and explored data obtained from the 2022 Environmental Performance Index, and fit and interpreted models to address our research question about possible connections between economic prosperity and contribution to climate change.
+
+This project was created by Julia Brandfonbrener, Samuel Fyle, Katelyn McClure, and Lilabeth Sokolewicz.
+
+Read our [Final Report](https://docs.google.com/document/d/1qhIzgbU6kjXDxIk326GUrd5mkqY9zvFaiAixlF2JpsU/edit).

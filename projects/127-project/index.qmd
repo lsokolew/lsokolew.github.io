@@ -1,0 +1,14 @@
+---
+title: "Pleasant Platformer"
+description: "A Java program for a platformer game"
+image: featured.png
+about:
+  template: solana
+  image: featured.png
+---
+
+A platformer game, written in Java, where you use arrow keys to obtain the key and go through the door to level up! Beware of spikes and bombs!
+
+This project was created by Courtney Brown, Sam Kenney, and Lilabeth Sokolewicz.
+
+Check it out [here](https://github.com/Mac-COMP-127-Fall-2023/course-project-lilabeth-courtney-sam-1)!

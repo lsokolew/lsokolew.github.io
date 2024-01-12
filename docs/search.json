@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "projects/127-project/index.html",
+    "href": "projects/127-project/index.html",
+    "title": "Pleasant Platformer",
+    "section": "",
+    "text": "This project was created by Courtney Brown, Sam Kenney, and Lilabeth Sokolewicz.\nCheck it out here!"
+  },
+  {
+    "objectID": "projects/155-report/index.html",
+    "href": "projects/155-report/index.html",
+    "title": "Comparing Greenhouse Gas Emissions and Gross Domestic Product",
+    "section": "",
+    "text": "This project was created by Julia Brandfonbrener, Samuel Fyle, Katelyn McClure, and Lilabeth Sokolewicz.\nRead our Final Report."
+  },
+  {
+    "objectID": "projects/123-project/Untitled.html",
+    "href": "projects/123-project/Untitled.html",
+    "title": "Backgammon Bananza",
+    "section": "",
+    "text": "This project was created by Avery Sinclair and Lilabeth Sokolewicz.\nRead our Final Report."
+  },
+  {
+    "objectID": "projects/112-app/index.html",
+    "href": "projects/112-app/index.html",
+    "title": "Academic Focuses at Macalester College",
+    "section": "",
+    "text": "Our investigation focused on how a student's declared major(s) impacts other academic focuses. For students, this can be useful to inform decision-making about potential concentrations given their declared major(s), given their benefits and accessibility. For faculty and administrators, it could be useful to be aware of the demographics of students who concentrate, so they know who to reach out to increase participation in concentrations. They also might consider changing the available concentrations or revising the requirements for existing ones.\nThis app was created by Lilabeth Sokolewicz, Phoebe Thomas, and Mila Zhou.\nFind our interactive Shiny App here: https://lilabethsoko.shinyapps.io/FinalProjApp/\nR code is included in the index section."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\nA Java program for a platformer game\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA statistical analysis of global economic and environmental equity\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Backgammon game created with Python\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAn R/Shiny App and report visualizing majors and concentrations at Macalester\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lilabeth Sokolewicz",
+    "section": "",
+    "text": "I’m a Data science and English double major in my second year at Macalester College. As a student, I endeavor to bridge the divide between STEM and the humanities. I have taken courses involving Python, object oriented programming, data science, and statistical modeling, as well as various literature and creative writing classes.\nI hail from the suburbs of Chicago, where, in my free time, you could find me either in a ballet studio or with my nose in a book. Creativity has always been important to me; I have loved stories for as long as I can remember.\nMy father and I had a tradition of completing my math lessons at the bookstore every week, after which I was allowed to select a new book. Eventually, I realized that I love finding stories in numbers as well as in fantastical worlds.\nNowadays, outside of the classroom, I am a captain of Macalester’s club quadball team and an avid West Coast Swing dancer."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Lilabeth Sokolewicz",
+    "section": "Education",
+    "text": "Education\nMacalester College | St Paul, MN \nAugust 2022 - May 2026"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  }
+]

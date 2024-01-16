@@ -2,7 +2,7 @@
 title: "Lilabeth Sokolewicz"
 about:
   id: intro-heading
-  template: broadside
+  template: trestles
   image: images/profilepic.jpg
   links:
     - icon: linkedin

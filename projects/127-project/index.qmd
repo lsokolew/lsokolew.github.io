@@ -7,8 +7,6 @@ about:
   image: featured.png
 ---
 
-A platformer game, written in Java, where you use arrow keys to obtain the key and go through the door to level up! Beware of spikes and bombs!
+A platformer game, written in Java, in which you move and jump an avatar with the arrow keys. The goal is to obtain the key and go through the door to level up- but beware of spikes and bombs!
 
 This project was created by Courtney Brown, Sam Kenney, and Lilabeth Sokolewicz.
-
-Check it out [here](https://github.com/Mac-COMP-127-Fall-2023/course-project-lilabeth-courtney-sam-1)!

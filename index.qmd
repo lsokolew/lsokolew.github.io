@@ -7,7 +7,7 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: www.linkedin.com/in/lilabeth-sokolewicz-428490242
+      href: https://www.linkedin.com/in/lilabeth-sokolewicz-428490242/
     - icon: envelope
       text: Email
       href: mailto:lsokolew@macalester.edu

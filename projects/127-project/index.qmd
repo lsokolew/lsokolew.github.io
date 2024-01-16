@@ -7,6 +7,8 @@ about:
   image: featured.png
 ---
 
-A platformer game, written in Java, in which you move and jump an avatar with the arrow keys. The goal is to obtain the key and go through the door to level up- but beware of spikes and bombs!
+A platformer game, written in Java, in which the player moves and jumps an avatar with the arrow keys. The goal is to obtain the key and go through the door to level up- but beware of spikes and bombs!
+
+I created the avatar and implemented its horizontal and vertical motion, including the ability to land on and fall off of platforms. I collaborated with peers, using GitHub, to apply our knowledge of object-oriented programming and give a presentation on our work.
 
 This project was created by Courtney Brown, Sam Kenney, and Lilabeth Sokolewicz.

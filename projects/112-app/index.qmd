@@ -1,18 +1,18 @@
 ---
 title: "Academic Focuses at Macalester College"
-description: "An R/Shiny App and report visualizing majors and concentrations at Macalester"
+description: "Visualizing majors and concentrations at Macalester"
 image: featured.png
 about:
   template: solana
   image: featured.png
 ---
 
-For this project, we worked with data provided by Macalester College's Office of Institutional Research to examine the connection between students' choices of majors and concentrations (similar to minors), as well as the implications of those connections.
+For this project, we worked with Macalester College's Office of Institutional Research to examine the connection between students' choices of majors and concentrations (similar to minors), as well as the implications of those connections. To present our findings, I learned how to create and format a Shiny App.
 
 Our investigation focused on how a student\'s declared major(s) impacts other academic focuses. For students, this can be useful to inform decision-making about potential concentrations given their declared major(s), given their benefits and accessibility. For faculty and administrators, it could be useful to be aware of the demographics of students who concentrate, so they know who to reach out to increase participation in concentrations. They also might consider changing the available concentrations or revising the requirements for existing ones.
 
-This app was created by Lilabeth Sokolewicz, Phoebe Thomas, and Mila Zhou.
+This project was completed by Lilabeth Sokolewicz, Phoebe Thomas, and Mila Zhou.
 
-Find our interactive Shiny App here: <https://lilabethsoko.shinyapps.io/FinalProjApp/>
+Find our interactive Shiny App and report here: <https://lilabethsoko.shinyapps.io/FinalProjApp/>
 
 R code is included in the index section.

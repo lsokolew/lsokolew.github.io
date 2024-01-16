@@ -7,7 +7,7 @@ about:
   image: featured.png
 ---
 
-We created a virtual version of the board game backgammon using Python. The game is displayed as a picture in a separate window, while the user interacts through prompts in the console. We implemented the program by creating the images, the visual component, first, and then adding the ability to move them according to user input later.
+I created a virtual version of the board game backgammon using Python, working collaboratively with another student. The game is displayed as an image in a separate window, while the user interacts through prompts in the console. We implemented the program by creating the visual component first, and then adding the ability to move pips according to user input.
 
 This project was created by Avery Sinclair and Lilabeth Sokolewicz.
 

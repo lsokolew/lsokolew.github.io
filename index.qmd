@@ -15,18 +15,14 @@ about:
 
 ## About me
 
-I'm a Data science and English double major in my second year at Macalester College. As a student, I endeavor to bridge the divide between STEM and the humanities. I have taken courses involving Python, object oriented programming, data science, and statistical modeling, as well as various literature and creative writing classes.
+I am a data science and English double major in my second year at Macalester College. As a student, I endeavor to bridge the divide between STEM and the humanities: my coursework includes Python, object oriented programming, data science, and statistical modeling, as well as various literature and creative writing studies.
 
-I hail from the suburbs of Chicago, where, in my free time, you could find me either in a ballet studio or with my nose in a book. Creativity has always been important to me; I have loved stories for as long as I can remember.
+Stories have called to me for as long as I can remember. As a child, my father and I had a tradition of completing my math lessons at the bookstore every week, after which I was allowed to select a new book. Eventually, I came to realize that I love to find the stories in numbers and data as well as fantastical worlds.
 
-My father and I had a tradition of completing my math lessons at the bookstore every week, after which I was allowed to select a new book. 
-Eventually, I realized that I love finding stories in numbers as well as in fantastical worlds. 
-
-
-Nowadays, outside of the classroom, I am a captain of Macalester's club [quadball](https://www.mlquadball.com/what-is-quadball) team and an avid West Coast Swing dancer.
+Outside of the classroom, I am a captain of Macalester's club [quadball](https://www.mlquadball.com/what-is-quadball) team and an avid West Coast Swing dancer. I also enjoy baking, long walks, and good music.
 
 ## Education
 
 **Macalester College \| St Paul, MN** <br>
 
-August 2022 - May 2026 
+August 2022 - May 2026

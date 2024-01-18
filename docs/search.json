@@ -1,42 +1,56 @@
 [
   {
-    "objectID": "projects/127-project/index.html",
-    "href": "projects/127-project/index.html",
-    "title": "Pleasant Platformer",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "I created the avatar and implemented its horizontal and vertical motion, including the ability to land on and fall off of platforms. I collaborated with peers, using GitHub, to apply our knowledge of object-oriented programming and give a presentation on our work.\nThis project was created by Courtney Brown, Sam Kenney, and Lilabeth Sokolewicz."
-  },
-  {
-    "objectID": "projects/155-report/index.html",
-    "href": "projects/155-report/index.html",
-    "title": "Comparing Greenhouse Gas Emissions and Gross Domestic Product",
-    "section": "",
-    "text": "We cleaned and explored data obtained from the 2022 Environmental Performance Index, and fit and interpreted models to address our research question about possible connections between economic prosperity and contribution to climate change.\nThis project was created by Julia Brandfonbrener, Samuel Fyle, Katelyn McClure, and Lilabeth Sokolewicz.\nRead our Final Report."
-  },
-  {
-    "objectID": "projects/123-project/index.html",
-    "href": "projects/123-project/index.html",
-    "title": "Backgammon Bananza",
-    "section": "",
-    "text": "This project was created by Avery Sinclair and Lilabeth Sokolewicz.\nRead our Final Report."
-  },
-  {
-    "objectID": "projects/112-app/index.html",
-    "href": "projects/112-app/index.html",
-    "title": "Academic Focuses at Macalester College",
-    "section": "",
-    "text": "Our investigation focused on how a student's declared major(s) impacts other academic focuses. For students, this can be useful to inform decision-making about potential concentrations given their declared major(s), given their benefits and accessibility. For faculty and administrators, it could be useful to be aware of the demographics of students who concentrate, so they know who to reach out to increase participation in concentrations. They also might consider changing the available concentrations or revising the requirements for existing ones.\nThis project was completed by Lilabeth Sokolewicz, Phoebe Thomas, and Mila Zhou.\nFind our interactive Shiny App and report here: https://lilabethsoko.shinyapps.io/FinalProjApp/\nR code is included in the index section."
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\nA Java program for a platformer game\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA statistical analysis of global economic and environmental equity\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Backgammon game created with Python\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing majors and concentrations at Macalester\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPleasant Platformer\n\n\nA Java program for a platformer game\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComparing Greenhouse Gas Emissions and Gross Domestic Product\n\n\nA statistical analysis of global economic and environmental equity\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBackgammon Bananza\n\n\nA Backgammon game created with Python\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAcademic Focuses at Macalester College\n\n\nVisualizing majors and concentrations at Macalester\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/123-project/index.html",
+    "href": "projects/123-project/index.html",
+    "title": "Backgammon Bananza",
+    "section": "",
+    "text": "I created a virtual version of the board game backgammon using Python, working collaboratively with another student. The game is displayed as an image in a separate window, while the user interacts through prompts in the console. We implemented the program by creating the visual component first, and then adding the ability to move pips according to user input.\nThis project was created by Avery Sinclair and Lilabeth Sokolewicz.\nRead our Final Report."
+  },
+  {
+    "objectID": "projects/127-project/index.html",
+    "href": "projects/127-project/index.html",
+    "title": "Pleasant Platformer",
+    "section": "",
+    "text": "A platformer game, written in Java, in which the player moves and jumps an avatar with the arrow keys. The goal is to obtain the key and go through the door to level up- but beware of spikes and bombs!\nI created the avatar and implemented its horizontal and vertical motion, including the ability to land on and fall off of platforms. I collaborated with peers, using GitHub, to apply our knowledge of object-oriented programming and give a presentation on our work.\nThis project was created by Courtney Brown, Sam Kenney, and Lilabeth Sokolewicz."
+  },
+  {
+    "objectID": "projects/155-report/index.html",
+    "href": "projects/155-report/index.html",
+    "title": "Comparing Greenhouse Gas Emissions and Gross Domestic Product",
+    "section": "",
+    "text": "We used statistical modeling techniques in R Studio to examine the relationship between greenhouse gas emissions and gross domestic product in a selection of nations.\nWe cleaned and explored data obtained from the 2022 Environmental Performance Index, and fit and interpreted models to address our research question about possible connections between economic prosperity and contribution to climate change.\nThis project was created by Julia Brandfonbrener, Samuel Fyle, Katelyn McClure, and Lilabeth Sokolewicz.\nRead our Final Report."
+  },
+  {
+    "objectID": "projects/112-app/index.html",
+    "href": "projects/112-app/index.html",
+    "title": "Academic Focuses at Macalester College",
+    "section": "",
+    "text": "For this project, we worked with Macalester College’s Office of Institutional Research to examine the connection between students’ choices of majors and concentrations (similar to minors), as well as the implications of those connections. To present our findings, I learned how to create and format a Shiny App.\nOur investigation focused on how a student's declared major(s) impacts other academic focuses. For students, this can be useful to inform decision-making about potential concentrations given their declared major(s), given their benefits and accessibility. For faculty and administrators, it could be useful to be aware of the demographics of students who concentrate, so they know who to reach out to increase participation in concentrations. They also might consider changing the available concentrations or revising the requirements for existing ones.\nThis project was completed by Lilabeth Sokolewicz, Phoebe Thomas, and Mila Zhou.\nFind our interactive Shiny App and report here: https://lilabethsoko.shinyapps.io/FinalProjApp/\nR code is included in the index section."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
+    "title": "Lilabeth Sokolewicz",
+    "section": "",
+    "text": "I am a data science and English double major in my second year at Macalester College. As a student, I endeavor to bridge the divide between STEM and the humanities: my coursework includes Python, object oriented programming, data science, and statistical modeling, as well as various literature and creative writing studies.\nStories have called to me for as long as I can remember. Growing up, my father and I had a tradition of completing my math lessons at the bookstore every week. Afterwards, I was allowed to select a new book. Many novel chapters and math problems later, I came to realize that I love to find the stories in numbers and data as well as in fantastical worlds.\nOutside of the classroom, I am a captain of Macalester’s club quadball team and an avid West Coast Swing dancer. I also enjoy baking, long walks, and good music."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
     "title": "Lilabeth Sokolewicz",
     "section": "",
     "text": "I am a data science and English double major in my second year at Macalester College. As a student, I endeavor to bridge the divide between STEM and the humanities: my coursework includes Python, object oriented programming, data science, and statistical modeling, as well as various literature and creative writing studies.\nStories have called to me for as long as I can remember. Growing up, my father and I had a tradition of completing my math lessons at the bookstore every week. Afterwards, I was allowed to select a new book. Many novel chapters and math problems later, I came to realize that I love to find the stories in numbers and data as well as in fantastical worlds.\nOutside of the classroom, I am a captain of Macalester’s club quadball team and an avid West Coast Swing dancer. I also enjoy baking, long walks, and good music."
@@ -47,12 +61,5 @@
     "title": "Lilabeth Sokolewicz",
     "section": "Education",
     "text": "Education\nMacalester College | St Paul, MN \nAugust 2022 - May 2026"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
   }
 ]

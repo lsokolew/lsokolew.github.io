@@ -1,0 +1,19 @@
+---
+title: "Unsupervised Machine Learning"
+description: "An analysis of One Direction's top hits in R studio"
+image: featured.png
+about:
+  template: solana
+  image: featured.png
+---
+
+
+Using unsupervised learning techniques in R, we analyzed Spotify data to uncover similarities and differences between One Direction songs. Our dataset included various musical features like duration, danceability, tempo, and popularity metrics.
+
+Using k-means clustering, we identified three distinct clusters of songs. Our PCA application revealed that the most influential features were energy, acousticness, Spotify popularity, and loudness. This created clearer cluster definitions and improved the interpretability of our results.
+
+My dimension reduction work integrated with the team’s efforts, enabling us to retain about 75% of the data’s variance while reducing feature redundancy. This was crucial for achieving balanced and meaningful clusters.
+
+This project highlights my proficiency in applying sophisticated machine learning techniques to real-world data, optimizing model accuracy, and deriving insights. I am excited to continue leveraging these skills to push the boundaries of data analysis and machine learning.
+
+This project was completed by Grace Bettenburg, Bridget Foley, and Lilabeth Sokolewicz.

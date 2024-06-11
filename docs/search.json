@@ -11,7 +11,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPleasant Platformer\n\n\nA Java program for a platformer game\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComparing Greenhouse Gas Emissions and Gross Domestic Product\n\n\nA statistical analysis of global economic and environmental equity\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBackgammon Bananza\n\n\nA Backgammon game created with Python\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAcademic Focuses at Macalester College\n\n\nVisualizing majors and concentrations at Macalester\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nUnsupervised Machine Learning\n\n\nAn analysis of One Direction’s top hits in R studio\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResidential Energy Usage\n\n\nAn R/Shiny App Analyzing U.S. Residential Buildings’ Energy Use\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Flight Delays\n\n\nFitting a LASSO Machine Learning Model in R\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPleasant Platformer\n\n\nA Java program for a platformer game\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComparing Greenhouse Gas Emissions and Gross Domestic Product\n\n\nA statistical analysis of global economic and environmental equity\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBackgammon Bananza\n\n\nA Backgammon game created with Python\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAcademic Focuses at Macalester College\n\n\nVisualizing majors and concentrations at Macalester\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/123-project/index.html",
@@ -61,5 +61,26 @@
     "title": "Lilabeth Sokolewicz",
     "section": "Education",
     "text": "Education\nMacalester College | St Paul, MN \nAugust 2022 - May 2026"
+  },
+  {
+    "objectID": "projects/212-project/index.html",
+    "href": "projects/212-project/index.html",
+    "title": "Residential Energy Usage",
+    "section": "",
+    "text": "In the multi-stage, semester-long project, we worked with data from the U.S. Energy Information Administration’s 2015 Residential Energy Consumption Survey, as well as from the American Community Survey.\nWe examined the impact of socioeconomic status and geographic region on energy use and efficiency, factors which underscore the importance of local and regional context in effective energy policy. Further, we found that using less space is key to decreasing energy usage; on average, higher-density housing like apartments use less energy than single family homes.\nI applied my GIS and R skills to create visually pleasing maps to effective display our geographic data, including the distribution of housing types, age, and size.\n\nThis app was created by Lilabeth Sokolewicz, Zoey Yandell, and Trung Dam.\nExplore the Shiny app with our report here."
+  },
+  {
+    "objectID": "projects/253-project-1/index.html",
+    "href": "projects/253-project-1/index.html",
+    "title": "Predicting Flight Delays",
+    "section": "",
+    "text": "This data was released by the Bureau of Transportation Statistics and contains details about the flight details and conditions for flights leaving MSP airport in 2022. After cleaning the data and selecting the value of lambda that produced the lowest cross-validation mean absolute error, we fit a linear regression LASSO model to select the best predictors for flight arrival delay.\nOur final model is fairly strong and accurate, and good at at predicting delays of flights within one hour. Since there is less data for flights delayed over an hour; however, the model does not perform well on more delayed flights.\nThis report was completed by Rishika Kundu & Lilabeth Sokolewicz.\nSee our work here"
+  },
+  {
+    "objectID": "projects/253-project-3/Untitled.html",
+    "href": "projects/253-project-3/Untitled.html",
+    "title": "Unsupervised Machine Learning",
+    "section": "",
+    "text": "Using unsupervised learning techniques in R, we analyzed Spotify data to uncover similarities and differences between One Direction songs. Our dataset included various musical features like duration, danceability, tempo, and popularity metrics.\nUsing k-means clustering, we identified three distinct clusters of songs. Our PCA application revealed that the most influential features were energy, acousticness, Spotify popularity, and loudness. This created clearer cluster definitions and improved the interpretability of our results.\nMy dimension reduction work integrated with the team’s efforts, enabling us to retain about 75% of the data’s variance while reducing feature redundancy. This was crucial for achieving balanced and meaningful clusters.\nThis project highlights my proficiency in applying sophisticated machine learning techniques to real-world data, optimizing model accuracy, and deriving insights. I am excited to continue leveraging these skills to push the boundaries of data analysis and machine learning.\nThis project was completed by Grace Bettenburg, Bridget Foley, and Lilabeth Sokolewicz."
   }
 ]

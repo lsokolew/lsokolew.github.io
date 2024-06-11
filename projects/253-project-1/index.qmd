@@ -1,0 +1,17 @@
+---
+title: "Predicting Flight Delays"
+description: "Fitting a LASSO Machine Learning Model in R"
+image: featured.png
+about:
+  template: solana
+  image: featured.png
+---
+
+
+This data was released by the Bureau of Transportation Statistics and contains details about the flight details and conditions for flights leaving MSP airport in 2022. After cleaning the data and selecting the value of lambda that produced the lowest cross-validation mean absolute error, we fit a linear regression LASSO model to select the best predictors for flight arrival delay.
+
+Our final model is fairly strong and accurate, and good at at predicting delays of flights within one hour. Since there is less data for flights delayed over an hour; however, the model does not perform well on more delayed flights. 
+
+This report was completed by Rishika Kundu & Lilabeth Sokolewicz. 
+
+[See our work here](group_assignment_1.html)

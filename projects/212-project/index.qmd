@@ -1,0 +1,21 @@
+---
+title: "Residential Energy Usage"
+description: "An R/Shiny App Analyzing U.S. Residential Buildings' Energy Use"
+image: featured.png
+about:
+  template: solana
+  image: featured.png
+---
+
+
+In the multi-stage, semester-long project, we worked with data from the U.S. Energy Information Administration's 2015 Residential Energy Consumption Survey, as well as from the American Community Survey. 
+
+We examined the impact of socioeconomic status and geographic region on energy use and efficiency, factors which underscore the importance of local and regional context in effective energy policy. Further, we found that using less space is key to decreasing energy usage; on average, higher-density housing like apartments use less energy than single family homes. 
+
+I applied my GIS and R skills to create visually pleasing maps to effective display our geographic data, including the distribution of housing types, age, and size.
+
+![](other.png)
+
+This app was created by Lilabeth Sokolewicz, Zoey Yandell, and Trung Dam.
+
+[Explore the Shiny app with our report here.](https://github.com/trungdam512/U.S._Building_Energy)

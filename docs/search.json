@@ -11,7 +11,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nUnsupervised Machine Learning\n\n\nAn analysis of One Direction’s top hits in R studio\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResidential Energy Usage\n\n\nAn R/Shiny App Analyzing U.S. Residential Buildings’ Energy Use\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Flight Delays\n\n\nFitting a LASSO Machine Learning Model in R\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPleasant Platformer\n\n\nA Java program for a platformer game\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComparing Greenhouse Gas Emissions and Gross Domestic Product\n\n\nA statistical analysis of global economic and environmental equity\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBackgammon Bananza\n\n\nA Backgammon game created with Python\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAcademic Focuses at Macalester College\n\n\nVisualizing majors and concentrations at Macalester\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nUnsupervised Machine Learning\n\n\nAn analysis of One Direction’s top hits in R studio\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResidential Energy Usage\n\n\nAn R/Shiny App Analyzing U.S. Residential Buildings’ Energy Use\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Flight Delays\n\n\nFitting a LASSO Machine Learning Model in R\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPleasant Platformer\n\n\nA Java program for a platformer game\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGIS Visualizations\n\n\nSpatial Data Representations in ArcGIS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComparing Greenhouse Gas Emissions and Gross Domestic Product\n\n\nA statistical analysis of global economic and environmental equity\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBackgammon Bananza\n\n\nA Backgammon game created with Python\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAcademic Focuses at Macalester College\n\n\nVisualizing majors and concentrations at Macalester\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/123-project/index.html",
@@ -82,5 +82,26 @@
     "title": "Unsupervised Machine Learning",
     "section": "",
     "text": "Using unsupervised learning techniques in R, we analyzed Spotify data to uncover similarities and differences between One Direction songs. Our dataset included various musical features like duration, danceability, tempo, and popularity metrics.\nUsing k-means clustering, we identified three distinct clusters of songs. Our PCA application revealed that the most influential features were energy, acousticness, Spotify popularity, and loudness. This created clearer cluster definitions and improved the interpretability of our results.\nMy dimension reduction work integrated with the team’s efforts, enabling us to retain about 75% of the data’s variance while reducing feature redundancy. This was crucial for achieving balanced and meaningful clusters.\nThis project highlights my proficiency in applying sophisticated machine learning techniques to real-world data, optimizing model accuracy, and deriving insights. I am excited to continue leveraging these skills to push the boundaries of data analysis and machine learning.\nThis project was completed by Grace Bettenburg, Bridget Foley, and Lilabeth Sokolewicz."
+  },
+  {
+    "objectID": "projects/GIS-projects/index.html",
+    "href": "projects/GIS-projects/index.html",
+    "title": "GIS Visualizations",
+    "section": "",
+    "text": "This page showcases a selection of my GIS projects, demonstrating my ability to integrate data analysis, spatial techniques, and visual design."
+  },
+  {
+    "objectID": "projects/GIS-projects/index.html#exploring-public-school-enrollment",
+    "href": "projects/GIS-projects/index.html#exploring-public-school-enrollment",
+    "title": "GIS Visualizations",
+    "section": "Exploring Public School Enrollment",
+    "text": "Exploring Public School Enrollment\n I downloaded and cleaned TIGER/Line Shapefiles to create an address locator for geocoding public school addresses into a point layer. After verifying accuracy through rematching and formatting a common field, I attribute-joined enrollment data to these school points. I then acquired and filtered Census Tract shapefiles for St. Paul, joined them with age demographic tables to calculate the percentage of children aged 5 to 9, and exported the data for visualization.\nFor the final map, I used choropleth symbology with natural breaks to display the distribution of elementary school-aged children by tract. I performed a spatial join to aggregate school enrollment data by neighborhood and represented enrollment levels with graduated symbols. I completed the design with clear labels, a legend, and explanatory text, producing an effective visual comparison of population age distribution and school enrollments."
+  },
+  {
+    "objectID": "projects/GIS-projects/index.html#choosing-an-appropriate-research-location",
+    "href": "projects/GIS-projects/index.html#choosing-an-appropriate-research-location",
+    "title": "GIS Visualizations",
+    "section": "Choosing an Appropriate Research Location",
+    "text": "Choosing an Appropriate Research Location\n\nI used ArcGIS to identify suitable research station locations near global cities based on environmental and demographic criteria. I integrated UNEP/GRID datasets on cities, lakes, precipitation, and humidity, applying attribute selections to isolate dry sub-humid regions with ≤600mm annual precipitation. Using buffer and selection tools, I narrowed results to cities with under 500,000 people within 50 km of lakes. I exported selections into new layers, intersected them to identify areas meeting all criteria, and refined outputs using the clip tool for cartographic consistency. Finally, I designed a professional, executive summary-style map with labeled features, glow effects, and explanatory text for clarity. This project improved my skills in using ArcGIS for data integration, spatial analysis, and effective visual communication."
   }
 ]

@@ -1,0 +1,27 @@
+---
+title: "GIS Visualizations"
+description: "Spatial Data Representations in ArcGIS"
+image: featured.png
+about:
+  template: solana
+  image: featured.png
+---
+
+This page showcases a selection of my GIS projects, demonstrating my ability to integrate data analysis, spatial techniques, and visual design. 
+
+![](featured.png)
+
+## Exploring Public School Enrollment
+
+![](lab4.jpg)
+I downloaded and cleaned TIGER/Line Shapefiles to create an address locator for geocoding public school addresses into a point layer. After verifying accuracy through rematching and formatting a common field, I attribute-joined enrollment data to these school points. I then acquired and filtered Census Tract shapefiles for St. Paul, joined them with age demographic tables to calculate the percentage of children aged 5 to 9, and exported the data for visualization.
+
+For the final map, I used choropleth symbology with natural breaks to display the distribution of elementary school-aged children by tract. I performed a spatial join to aggregate school enrollment data by neighborhood and represented enrollment levels with graduated symbols. I completed the design with clear labels, a legend, and explanatory text, producing an effective visual comparison of population age distribution and school enrollments.
+
+## Choosing an Appropriate Research Location
+
+![](sitesuitability.jpg) 
+
+I used ArcGIS to identify suitable research station locations near global cities based on environmental and demographic criteria. I integrated UNEP/GRID datasets on cities, lakes, precipitation, and humidity, applying attribute selections to isolate dry sub-humid regions with ≤600mm annual precipitation. Using buffer and selection tools, I narrowed results to cities with under 500,000 people within 50 km of lakes. I exported selections into new layers, intersected them to identify areas meeting all criteria, and refined outputs using the clip tool for cartographic consistency. Finally, I designed a professional, executive summary-style map with labeled features, glow effects, and explanatory text for clarity. This project improved my skills in using ArcGIS for data integration, spatial analysis, and effective visual communication.
+
+
